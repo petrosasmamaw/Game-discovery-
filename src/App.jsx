@@ -4,7 +4,7 @@ import NavBar from './features/components/navBar.jsx'
 import GameList from './features/games/gameList.jsx';
 import GameDetail from './features/games/gameDetail.jsx';
 import FavoritesList from './features/favorites/favoritesList.jsx';
-12
+123
 function App() {
   return (
     <BrowserRouter>
